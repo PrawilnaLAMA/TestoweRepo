@@ -1,0 +1,3 @@
+[submodule "Testowe2"]
+	path = Testowe2
+	url = git@github.com:PrawilnaLAMA/Testowe2.git
